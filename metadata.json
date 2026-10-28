@@ -1,0 +1,8 @@
+{
+  "name": "RUN 4 BISWAS",
+  "description": "High-contrast morning running fitness app with smart wake-up alarm missions, real-time GPS tracking, local weather conditions, and AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
